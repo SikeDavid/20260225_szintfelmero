@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{4EC5C8E7-7EEF-4F8E-999B-46DF527A5D81}|DrinkCLI\\DrinkCLI.csproj|solutionrelative:drinkcli\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EC5C8E7-7EEF-4F8E-999B-46DF527A5D81}|DrinkCLI\\DrinkCLI.csproj|c:\\users\\siked\\documents\\school\\school_desktop\\20260225_szintfelmero\\drinkcli\\drinkcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EC5C8E7-7EEF-4F8E-999B-46DF527A5D81}|DrinkCLI\\DrinkCLI.csproj|solutionrelative:drinkcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EC5C8E7-7EEF-4F8E-999B-46DF527A5D81}|DrinkCLI\\DrinkCLI.csproj|C:\\Users\\siked\\Documents\\school\\School_desktop\\20260225_szintfelmero\\DrinkCLI\\drinkcli\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC5C8E7-7EEF-4F8E-999B-46DF527A5D81}|DrinkCLI\\DrinkCLI.csproj|solutionrelative:drinkcli\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EC5C8E7-7EEF-4F8E-999B-46DF527A5D81}|DrinkCLI\\DrinkCLI.csproj|c:\\users\\siked\\documents\\school\\school_desktop\\20260225_szintfelmero\\drinkcli\\drinkcli\\populationgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EC5C8E7-7EEF-4F8E-999B-46DF527A5D81}|DrinkCLI\\DrinkCLI.csproj|C:\\Users\\siked\\Documents\\school\\School_desktop\\20260225_szintfelmero\\DrinkCLI\\drinkcli\\populationgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EC5C8E7-7EEF-4F8E-999B-46DF527A5D81}|DrinkCLI\\DrinkCLI.csproj|solutionrelative:drinkcli\\populationgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EC5C8E7-7EEF-4F8E-999B-46DF527A5D81}|DrinkCLI\\DrinkCLI.csproj|c:\\users\\siked\\documents\\school\\school_desktop\\20260225_szintfelmero\\drinkcli\\drinkcli\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EC5C8E7-7EEF-4F8E-999B-46DF527A5D81}|DrinkCLI\\DrinkCLI.csproj|solutionrelative:drinkcli\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EC5C8E7-7EEF-4F8E-999B-46DF527A5D81}|DrinkCLI\\DrinkCLI.csproj|C:\\Users\\siked\\Documents\\school\\School_desktop\\20260225_szintfelmero\\DrinkCLI\\drinkcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC5C8E7-7EEF-4F8E-999B-46DF527A5D81}|DrinkCLI\\DrinkCLI.csproj|solutionrelative:drinkcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,20 +36,20 @@
               "RelativeDocumentMoniker": "DrinkCLI\\PopulationGroup.cs",
               "ToolTip": "C:\\Users\\siked\\Documents\\school\\School_desktop\\20260225_szintfelmero\\DrinkCLI\\DrinkCLI\\PopulationGroup.cs",
               "RelativeToolTip": "DrinkCLI\\PopulationGroup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T15:28:18.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Nationality.cs",
               "DocumentMoniker": "C:\\Users\\siked\\Documents\\school\\School_desktop\\20260225_szintfelmero\\DrinkCLI\\DrinkCLI\\Nationality.cs",
               "RelativeDocumentMoniker": "DrinkCLI\\Nationality.cs",
               "ToolTip": "C:\\Users\\siked\\Documents\\school\\School_desktop\\20260225_szintfelmero\\DrinkCLI\\DrinkCLI\\Nationality.cs",
               "RelativeToolTip": "DrinkCLI\\Nationality.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T15:28:01.938Z",
               "EditorCaption": ""
@@ -62,14 +62,14 @@
               "RelativeDocumentMoniker": "DrinkCLI\\Citizen.cs",
               "ToolTip": "C:\\Users\\siked\\Documents\\school\\School_desktop\\20260225_szintfelmero\\DrinkCLI\\DrinkCLI\\Citizen.cs",
               "RelativeToolTip": "DrinkCLI\\Citizen.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAAEoAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAADwv0wAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T15:27:42.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\siked\\Documents\\school\\School_desktop\\20260225_szintfelmero\\DrinkCLI\\DrinkCLI\\Program.cs",
               "RelativeDocumentMoniker": "DrinkCLI\\Program.cs",
@@ -77,8 +77,7 @@
               "RelativeToolTip": "DrinkCLI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T15:21:04.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T15:21:04.367Z"
             }
           ]
         }

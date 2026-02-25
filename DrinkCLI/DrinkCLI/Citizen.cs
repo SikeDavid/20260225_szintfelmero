@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace DrinkCLI
@@ -27,7 +28,9 @@ namespace DrinkCLI
         public string DrinkingWeekdays1 { get => DrinkingWeekdays; set => DrinkingWeekdays = value; }
         public string DrinkingWeekends1 { get => DrinkingWeekends; set => DrinkingWeekends = value; }
         public string Gender1 { get => Gender; set => Gender = value; }
+        public Nationality Nation { get; set; }
         public string NetIncome1 { get => NetIncome; set => NetIncome = value; }
+        public PopulationGroup Group { get; set; } 
         public string SchoolDropout1 { get => SchoolDropout; set => SchoolDropout = value; }
         public string State1 { get => State; set => State = value; }
         public string Treatment1 { get => Treatment; set => Treatment = value; }
@@ -53,9 +56,9 @@ namespace DrinkCLI
             DrinkingWeekdays = data[2];
             DrinkingWeekends = data[3];
             Gender = data[4];
-            // Nationality:
+            Nation = new Nationality(Convert.ToInt32(data[5]), data[6]); // Nationality:
             NetIncome = data[7];
-            // PopulationGroup;
+            Group = new PopulationGroup(Convert.ToInt32(data[8]), data[9]); // PopulationGroup;
             SchoolDropout = data[10];
             State = data[11];
             Treatment = data[12];
@@ -71,14 +74,14 @@ namespace DrinkCLI
             Console.WriteLine($"Drinking on weekdays: {DrinkingWeekdays}");
             Console.WriteLine($"Drinking on weekends: {DrinkingWeekends}");
             Console.WriteLine($"Gender: {Gender}");
-            Console.WriteLine($"Nationality: ");
+            Console.WriteLine($"Nationality: {Nation.NationalityName1}");
             Console.WriteLine($"Net income: {NetIncome}");
-            Console.WriteLine($"Population Group: ");
+            Console.WriteLine($"Population Group: {Group.PopulationGroupName1}");
             Console.WriteLine($"Drop out from school: {SchoolDropout}");
             Console.WriteLine($"State: {State}");
             Console.WriteLine($"Treatment: {Treatment}");
             Console.WriteLine($"Average drinking: {Average()}");
-            Console.WriteLine("");
+            Console.WriteLine(""); // Sortores
         }
     }
 }
