@@ -1,0 +1,7 @@
+C:\Users\siked\Documents\school\School_desktop\20260225_szintfelmero\DrinkCLI\DrinkCLI\bin\Debug\DrinkCLI.exe.config
+C:\Users\siked\Documents\school\School_desktop\20260225_szintfelmero\DrinkCLI\DrinkCLI\bin\Debug\DrinkCLI.exe
+C:\Users\siked\Documents\school\School_desktop\20260225_szintfelmero\DrinkCLI\DrinkCLI\bin\Debug\DrinkCLI.pdb
+C:\Users\siked\Documents\school\School_desktop\20260225_szintfelmero\DrinkCLI\DrinkCLI\obj\Debug\DrinkCLI.csproj.AssemblyReference.cache
+C:\Users\siked\Documents\school\School_desktop\20260225_szintfelmero\DrinkCLI\DrinkCLI\obj\Debug\DrinkCLI.csproj.CoreCompileInputs.cache
+C:\Users\siked\Documents\school\School_desktop\20260225_szintfelmero\DrinkCLI\DrinkCLI\obj\Debug\DrinkCLI.exe
+C:\Users\siked\Documents\school\School_desktop\20260225_szintfelmero\DrinkCLI\DrinkCLI\obj\Debug\DrinkCLI.pdb
