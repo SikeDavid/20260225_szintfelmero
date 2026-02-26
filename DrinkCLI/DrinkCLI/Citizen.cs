@@ -36,20 +36,7 @@ namespace DrinkCLI
         public string Treatment1 { get => Treatment; set => Treatment = value; }
 
         // Methods
-        public string Average() // Average
-        {
-            if (Drinking == "No")
-            {
-                return "Not drinkinng";
-            }
-            else { 
-                int Weekdays = Convert.ToInt32(DrinkingWeekdays);
-                int Weekends = Convert.ToInt32(DrinkingWeekends);
-                return Convert.ToString((Weekdays + Weekends) / 2);
-            }
-        }
-
-        public Citizen(string dataset) // Citizen
+        public Citizen(string dataset)
         {
             string[] data = dataset.Split(';');
             // Citizen Id:
@@ -65,10 +52,20 @@ namespace DrinkCLI
             State = data[11];
             Treatment = data[12];
         }
-        
-        // ToString
-
-        public void citizens()
+        public string Average() // Average
+        {
+            if (Drinking == "No")
+            {
+                return "Not drinkinng";
+            }
+            else
+            {
+                int Weekdays = Convert.ToInt32(DrinkingWeekdays);
+                int Weekends = Convert.ToInt32(DrinkingWeekends);
+                return Convert.ToString((Weekdays + Weekends) / 2);
+            }
+        }
+        public void citizens() // Citizen
         {
             Console.WriteLine($"Citizen Id: {CitizenID}");
             Console.WriteLine($"Age: {Age}");
@@ -85,5 +82,7 @@ namespace DrinkCLI
             Console.WriteLine($"Average drinking: {Average()}");
             Console.WriteLine(""); // Sortores
         }
+
+        // ToString
     }
 }
