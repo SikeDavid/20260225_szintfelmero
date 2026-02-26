@@ -15,8 +15,7 @@ namespace DrinkCLI
         public string NationalityName1 { get => NationalityName; set => NationalityName = value; }
 
         // Methods
-        // Nationality
-        public Nationality(int id, string name)
+        public Nationality(int id, string name) // Nationality
         {
             NationalityId = id;
             NationalityName = name;

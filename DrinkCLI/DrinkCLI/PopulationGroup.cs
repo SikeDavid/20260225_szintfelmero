@@ -15,8 +15,7 @@ namespace DrinkCLI
         public string PopulationGroupName1 { get => PopulationGroupName; set => PopulationGroupName = value; }
 
         // Methods
-        // PopulationGroup
-        public PopulationGroup(int id, string name)
+        public PopulationGroup(int id, string name) // PopulationGroup
         {
             PopulationGroupId = id;
             PopulationGroupName = name;
